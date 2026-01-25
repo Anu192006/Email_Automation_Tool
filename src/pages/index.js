@@ -1,0 +1,10 @@
+
+export { LoginPage } from './LoginPage'
+export { RegisterPage } from './RegisterPage'
+export { DashboardPage } from './DashboardPage'
+export { OrganizationSetupPage } from './OrganizationSetupPage'
+export { RecipientsPage } from './RecipientsPage'
+export { AutomationPage } from './AutomationPage'
+export { AutomationPageDemo } from './AutomationPageDemo'
+export { default as TemplateManagementPage } from './TemplateManagementPage'
+export { LogsPage } from './LogsPage'
